@@ -21,5 +21,3 @@ Depois é só seguir os comandos que o próprio programa irá informar.
 
 ### Features
 Nesse código, forneço as infomações solicitadas e também trato algumas possibilidades de erros que o usuário poderá ter como digitar palavras, números negativos ou números com ponto flutuante que é o caso do double. 
-
-
