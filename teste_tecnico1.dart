@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int num = 0;
+  int num, soma = 0;
 
   try {
     print('Insira um número inteiro positivo: ');
@@ -18,15 +18,16 @@ void main() {
 
   print("O número que você escolheu é: ${num}");
 
-  _funcaoLogica(num);
+  soma = _obterResultado(num);
+  print('O valor é ${soma}');
 }
 
-int? _funcaoLogica(num) {
+int _obterResultado(num) {
   int soma = 0;
   for (int i = 0; i < num; i++) {
     if ((i % 3 == 0) || (i % 5 == 0)) {
       soma += i;
     }
   }
-  print('O valor é ${soma}');
+  return soma;
 }
