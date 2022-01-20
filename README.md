@@ -20,14 +20,14 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
  - `dart teste_tecnico1.dart`
 
 Depois é só seguir os passos que o próprio programa irá informar como:
-- informar um número inteiro positivo; 
-- e depois irá mostrar a somatória dos valores divisíveis por 3 ou 5.
+- Informar um número inteiro positivo; 
+- Em seguida, irá mostrar a somatória dos valores divisíveis por 3 ou 5.
 
 ### 🛠️ Features
 Nesse código, contém o cálculo lógico solicitado e também o tratamento de algumas possibilidades de erros que o usuário poderá ter como: 
-- digitar palavras;
-- números negativos;
-- números com ponto flutuante que é o caso do double.
+- Digitar palavras;
+- Números negativos;
+- Números com ponto flutuante.
 
 ### 🛠️ Licenças
 - Não se aplica.
