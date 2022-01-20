@@ -18,11 +18,11 @@ void main() {
 
   print("O número que você escolheu é: ${num}");
 
-  soma = _obterResultado(num);
+  soma = _somando(num);
   print('O valor é ${soma}');
 }
 
-int _obterResultado(num) {
+int _somando(num) {
   int soma = 0;
   for (int i = 0; i < num; i++) {
     if ((i % 3 == 0) || (i % 5 == 0)) {
