@@ -9,8 +9,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 ### Desenvolvimento
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 - cd "diretorio de sua preferencia"
-- git clone https://github.com/condessalovelace/mavenquickstart  -- arrumar
-- também é possível baixar aqui pelo site mesmo numa pasta zipada.
+- git clone https://github.com/AriCamargos/TesteTecnico1.git 
 
 ### Instruções de como rodar o projeto e testá-lo: 
 Para executar o projeto é necessário utilizar o vscode ou o android studio.
